@@ -1,0 +1,3 @@
+# LayeredSpriteGenerator
+
+Create sprites!
